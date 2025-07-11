@@ -1,0 +1,9 @@
+checkpoints/summary
+checkpoints/summary*
+checkpoints/*.pth
+data
+module_size
+*.pyc
+*.pth
+checkpoints/*.log
+*.png
